@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Chulapa on remote
+title: naughtely online
 header_type: hero
-subtitle: Starter pack
+subtitle: Starter post
+published: true
 ---
 
-Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
+Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get naughty with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
 
 Contains basic configuration to get you a site with:
 
